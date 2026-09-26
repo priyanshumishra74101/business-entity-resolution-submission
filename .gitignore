@@ -4,6 +4,8 @@ work*/
 # Superseded intermediate outputs/packages
 output_two_stage*/
 submission_package*/
+business_entity_resolution_submission/
+business_entity_resolution_two_stage_submission/
 business_entity_resolution_submission.zip
 business_entity_resolution_two_stage_submission.zip
 
