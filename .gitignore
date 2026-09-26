@@ -11,3 +11,7 @@ business_entity_resolution_two_stage_submission.zip
 # Python cache
 __pycache__/
 *.py[cod]
+
+# Operating-system packaging metadata
+.DS_Store
+__MACOSX/
